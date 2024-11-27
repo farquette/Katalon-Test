@@ -41,21 +41,11 @@ WebUI.click(findTestObject('Object Repository/Page_A place to practice your auto
 
 WebUI.click(findTestObject('Object Repository/Page_A place to practice your automation skills/span_0.00'))
 
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/a_Home'))
+WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Facebook'))
 
-WebUI.mouseOver(findTestObject('Page_Shopping Cart/a_Home'))
+WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Twitter'))
 
-WebUI.click(findTestObject('Page_A place to practice your automation skills/span_Specials'))
-
-WebUI.mouseOver(findTestObject('Page_Shopping Cart/a_Home'))
-
-WebUI.click(findTestObject('Page_A place to practice your automation skills/span_Account'))
-
-WebUI.mouseOver(findTestObject('Page_Shopping Cart/a_Home'))
-
-WebUI.mouseOver(findTestObject('Page_A place to practice your automation skills/span_Account'))
-
-WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Login'))
+WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Linkedin'))
 
 WebUI.closeBrowser()
 

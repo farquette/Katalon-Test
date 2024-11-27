@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Eyes</name>
+   <name>a_Face</name>
    <tag></tag>
-   <elementGuidId>90bf6ddc-f491-44d7-8752-c471cc9c9030</elementGuidId>
+   <elementGuidId>807d229f-9b29-4a79-afd2-b03856de16cd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(3) > div.subcategories > ul > li:nth-of-type(2) > a</value>
+         <value>div.subcategories > ul > li:nth-of-type(3) > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='categorymenu']/nav/ul/li[3]/div/ul/li[2]/a</value>
+         <value>//section[@id='categorymenu']/nav/ul/li[3]/div/ul/li[3]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,70 +23,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9413787b-2865-414e-be0d-0c9511dd7cb4</webElementGuid>
+      <webElementGuid>a0dad27c-450e-4160-ba0a-2e239c28b40e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://automationteststore.com/index.php?rt=product/category&amp;path=36_39</value>
-      <webElementGuid>4199f985-f10c-4a30-af02-972d48d40482</webElementGuid>
+      <value>https://automationteststore.com/index.php?rt=product/category&amp;path=36_38</value>
+      <webElementGuid>869bc1e4-1516-463d-89c0-db9e80edfc71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>    Eyes</value>
-      <webElementGuid>0f1cd49d-add6-4bea-960f-5350d8037528</webElementGuid>
+      <value>    Face</value>
+      <webElementGuid>8eb15083-f4ce-493d-af4e-37cb50a06599</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;categorymenu&quot;)/nav[@class=&quot;subnav&quot;]/ul[@class=&quot;nav-pills categorymenu&quot;]/li[3]/div[@class=&quot;subcategories&quot;]/ul[1]/li[2]/a[1]</value>
-      <webElementGuid>a6e73301-27cb-4476-b193-82a2cbca152e</webElementGuid>
+      <value>id(&quot;categorymenu&quot;)/nav[@class=&quot;subnav&quot;]/ul[@class=&quot;nav-pills categorymenu&quot;]/li[3]/div[@class=&quot;subcategories&quot;]/ul[1]/li[3]/a[1]</value>
+      <webElementGuid>3f1bafbc-e9cd-4055-a212-de8c934bcc32</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='categorymenu']/nav/ul/li[3]/div/ul/li[2]/a</value>
-      <webElementGuid>fcc444b6-0d81-45c9-aef9-ae1cf12b6f28</webElementGuid>
+      <value>//section[@id='categorymenu']/nav/ul/li[3]/div/ul/li[3]/a</value>
+      <webElementGuid>783c6f4c-16b2-49e3-b883-fd89021ba32f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Eyes')]</value>
-      <webElementGuid>0bd6ff08-57bb-46da-bb04-53de4f83d134</webElementGuid>
+      <value>(//a[contains(text(),'Face')])[2]</value>
+      <webElementGuid>61cbed19-b14a-4020-b5d4-3660147ca521</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://automationteststore.com/index.php?rt=product/category&amp;path=36_39')]</value>
-      <webElementGuid>68ceef82-9afe-4efc-8375-73a17e912200</webElementGuid>
+      <value>//a[contains(@href, 'https://automationteststore.com/index.php?rt=product/category&amp;path=36_38')]</value>
+      <webElementGuid>063c6630-3d37-41f6-b077-90461d42e31a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[3]/div/ul/li[2]/a</value>
-      <webElementGuid>d0ae9e84-5591-49dc-8e96-b1750a82ea76</webElementGuid>
+      <value>//li[3]/div/ul/li[3]/a</value>
+      <webElementGuid>d2cb4a63-89bb-45c4-a890-5542384774e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://automationteststore.com/index.php?rt=product/category&amp;path=36_39' and (text() = '    Eyes' or . = '    Eyes')]</value>
-      <webElementGuid>a745e283-88ac-4409-a1e9-b371fa4c3431</webElementGuid>
+      <value>//a[@href = 'https://automationteststore.com/index.php?rt=product/category&amp;path=36_38' and (text() = '    Face' or . = '    Face')]</value>
+      <webElementGuid>f0eb3f53-1da8-4299-baf6-5222ca436700</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

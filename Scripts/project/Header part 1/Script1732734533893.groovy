@@ -21,21 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://automationteststore.com/')
 
-
-WebUI.click(findTestObject('Object Repository/Page_Search/a_US Dollar'))
-
-WebUI.click(findTestObject('Object Repository/Page_Search/a_Euro'))
-
-WebUI.rightClick(findTestObject('Object Repository/Page_Search/span_Euro'))
-
-WebUI.click(findTestObject('Object Repository/Page_Search/a_US Dollar_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Search/a_US Dollar'))
-
-WebUI.click(findTestObject('Object Repository/Page_A place to practice your automation skills/a_Pound Sterling'))
-
-WebUI.click(findTestObject('Object Repository/Page_A place to practice your automation skills/span_0.00'))
-
 WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/a_Home'))
 
 WebUI.mouseOver(findTestObject('Page_Shopping Cart/a_Home'))
@@ -76,11 +61,11 @@ WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Ch
 
 WebUI.mouseOver(findTestObject('Page_A place to practice your automation skills/a_Makeup'))
 
-WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Eyes'))
+WebUI.click(findTestObject('Makeup/a_Eyes'))
 
 WebUI.mouseOver(findTestObject('Page_A place to practice your automation skills/a_Makeup'))
 
-WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Face'))
+WebUI.click(findTestObject('Makeup/a_Face'))
 
 WebUI.mouseOver(findTestObject('Page_A place to practice your automation skills/a_Makeup'))
 
@@ -94,4 +79,15 @@ WebUI.mouseOver(findTestObject('Page_A place to practice your automation skills/
 
 WebUI.click(findTestObject('Page_A place to practice your automation skills/a_Value Sets'))
 
+WebUI.click(findTestObject('Skincare/a_Skincare'))
+
+WebUI.mouseOver(findTestObject('Skincare/a_Skincare'))
+
+WebUI.click(findTestObject('Skincare/a_Eyes'))
+
+WebUI.mouseOver(findTestObject('Skincare/a_Skincare'))
+
+WebUI.click(findTestObject('Skincare/a_Face'))
+
 WebUI.closeBrowser()
+
