@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>header</name>
+   <name>Confirm breadcrumb functions</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>5f1c4dc9-1d90-41e1-ba17-c2b92ac2b947</testCaseGuid>
+   <testCaseGuid>cf4a0398-a538-4f22-a5ae-184e0cccfb8e</testCaseGuid>
 </TestCaseEntity>

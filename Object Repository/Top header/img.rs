@@ -3,7 +3,7 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>3e3ce46d-6e03-4772-8bfd-8d76dba5891c</elementGuidId>
+   <elementGuidId>6000131a-3b48-4bad-abd3-0f834ec51d15</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>5e61e880-498a-4ac6-a1d6-7531df49ed3d</webElementGuid>
+      <webElementGuid>1804337e-60d9-410e-99b6-88e9cbbe9c84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>src</name>
       <type>Main</type>
       <value>resources/image/18/7a/8.png</value>
-      <webElementGuid>b347101e-3fda-4a16-b69b-3272c1b82f97</webElementGuid>
+      <webElementGuid>49406b3e-5100-4ab1-8a16-4ab164b05248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Automation Test Store</value>
-      <webElementGuid>4add2e59-5506-4e40-9794-293f1ebd28a6</webElementGuid>
+      <webElementGuid>fc53e887-aa6c-4671-827a-e64125d1e01b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Automation Test Store</value>
-      <webElementGuid>a29d8bf8-fceb-4252-8e4d-0c11f4b9ffbf</webElementGuid>
+      <webElementGuid>e729880f-e463-4668-95ac-f4ffee17a828</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;home&quot;]/div[@class=&quot;container-fixed&quot;]/header[1]/div[@class=&quot;headerstrip navbar navbar-inverse&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;navbar-header header-logo&quot;]/a[@class=&quot;logo&quot;]/img[1]</value>
-      <webElementGuid>0fbd2b86-f74c-4974-968d-1e7025403d54</webElementGuid>
+      <webElementGuid>9a375efc-4f98-4625-ab42-55216407dcf6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Automation Test Store']</value>
-      <webElementGuid>caaa44fd-2487-4e6a-af94-e283e1a043b7</webElementGuid>
+      <webElementGuid>2076e5a1-7a14-415e-b109-f8b87d6fdb1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>1ac4d457-f2b0-4669-9ccd-9ef976637d94</webElementGuid>
+      <webElementGuid>5a428ab9-6d26-40d7-bd12-9dd25430c441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'resources/image/18/7a/8.png' and @title = 'Automation Test Store' and @alt = 'Automation Test Store']</value>
-      <webElementGuid>80b9341f-e721-427b-8f91-388083a724b5</webElementGuid>
+      <webElementGuid>c253d63c-8c84-434b-8f13-0e0457e758a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login or register_icon-bar</name>
+   <tag></tag>
+   <elementGuidId>646463f6-d2cc-4c6f-86b7-50b3b0171f46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a8df156-5882-4629-b17e-0df2f92c1304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-bar</value>
+      <webElementGuid>102740f1-3244-498d-a7eb-3d838c4179d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home&quot;]/div[@class=&quot;container-fixed&quot;]/header[1]/div[@class=&quot;headerstrip navbar navbar-inverse&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;navbar-header header-logo&quot;]/button[@class=&quot;navbar-toggle collapsed&quot;]/span[@class=&quot;icon-bar&quot;]</value>
+      <webElementGuid>4656c2a2-587c-4e1b-b46e-34c33c2532aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]</value>
+      <webElementGuid>d230be0d-cacc-4e24-ae34-062d88c393bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
