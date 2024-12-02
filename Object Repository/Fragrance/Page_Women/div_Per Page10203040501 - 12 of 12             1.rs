@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Account</name>
+   <name>div_Per Page10203040501 - 12 of 12             1</name>
    <tag></tag>
-   <elementGuidId>587ce0bb-6672-4911-8b1b-142b1d3502f8</elementGuidId>
+   <elementGuidId>15810039-149a-48bc-9835-41cafe0b5709</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='main_menu']/li[2]/a/span</value>
+         <value>//div[@id='maincontainer']/div/div/div/div/div[5]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li.dropdown.open > a.top.menu_account > span.menu_text</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,151 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1aae0efb-c4b6-4cca-a8a0-748bfa470d3a</webElementGuid>
+      <value>div</value>
+      <webElementGuid>bb9559ae-4d01-4ba0-8bda-01c9237a8989</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu_text</value>
-      <webElementGuid>b7b8284f-202e-4bb1-8784-e568995c9bcf</webElementGuid>
+      <value>sorting well</value>
+      <webElementGuid>c576a301-f392-412f-ba25-8005c4cdde0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Account</value>
-      <webElementGuid>7f0ed55d-5d5c-4f49-b228-03423a3a92d1</webElementGuid>
+      <value>
+		
+
+Per Page  
+
+			10
+			20
+			30
+			40
+			50
+	
+  
+1 - 12 of 12
+
+
+    
+  	  	 
+    	1
+  	 
+  	  	
+
+
+		
+		
+	</value>
+      <webElementGuid>9f0f842c-f70d-4b86-9b10-2ac9a0581e2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown  open&quot;]/a[@class=&quot;top menu_account&quot;]/span[@class=&quot;menu_text&quot;]</value>
-      <webElementGuid>669972b8-b641-4f04-be3a-1151362da6e8</webElementGuid>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12 col-xs-12 mt20&quot;]/div[1]/div[@class=&quot;contentpanel&quot;]/div[@class=&quot;sorting well&quot;]</value>
+      <webElementGuid>b23daede-ac4f-4394-a712-236f6374e788</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='main_menu']/li[2]/a/span</value>
-      <webElementGuid>bcce7efd-2558-4281-8ca7-edec8106cfc9</webElementGuid>
+      <value>//div[@id='maincontainer']/div/div/div/div/div[5]</value>
+      <webElementGuid>b396b614-a5c3-4f4e-95de-89eb49655975</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specials'])[2]/following::span[1]</value>
-      <webElementGuid>fc9f4f13-64d6-4730-ad0f-ddf3910955d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$36.65'])[2]/following::div[1]</value>
+      <webElementGuid>c2d5f055-e42a-4aa2-8729-2556b1e0e47b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
-      <webElementGuid>9a698e85-f16d-4785-8880-5348201ab60c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[20]/following::div[5]</value>
+      <webElementGuid>72fa8028-e65f-4862-936c-bd14da879a8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::span[1]</value>
-      <webElementGuid>51732255-4e95-4adc-82e7-27f7ee8c7ded</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[2]/preceding::span[2]</value>
-      <webElementGuid>423796ac-8320-4f72-ae85-2edee977c502</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::div[4]</value>
+      <webElementGuid>3eafd7d3-9e0f-4565-9209-56dae246320d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div/ul/li[2]/a/span</value>
-      <webElementGuid>468b111c-919c-40a1-936d-495205a5d245</webElementGuid>
+      <value>//div[5]</value>
+      <webElementGuid>74bd5c02-27a2-4e4a-8a07-06411ee742c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Account' or . = 'Account')]</value>
-      <webElementGuid>473ae17b-280d-4159-9f09-8cc1f9be8129</webElementGuid>
+      <value>//div[(text() = '
+		
+
+Per Page  
+
+			10
+			20
+			30
+			40
+			50
+	
+  
+1 - 12 of 12
+
+
+    
+  	  	 
+    	1
+  	 
+  	  	
+
+
+		
+		
+	' or . = '
+		
+
+Per Page  
+
+			10
+			20
+			30
+			40
+			50
+	
+  
+1 - 12 of 12
+
+
+    
+  	  	 
+    	1
+  	 
+  	  	
+
+
+		
+		
+	')]</value>
+      <webElementGuid>6832652d-3935-4c59-b306-c6d166ea623f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

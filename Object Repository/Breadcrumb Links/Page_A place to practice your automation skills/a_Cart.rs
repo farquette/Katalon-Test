@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Account</name>
+   <name>a_Cart</name>
    <tag></tag>
-   <elementGuidId>587ce0bb-6672-4911-8b1b-142b1d3502f8</elementGuidId>
+   <elementGuidId>362df49f-ecd6-4b6f-84cb-e8406e1bdab5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='main_menu']/li[2]/a/span</value>
+         <value>//ul[@id='main_menu']/li[3]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li.dropdown.open > a.top.menu_account > span.menu_text</value>
+         <value>#main_menu > li.dropdown > a.top.nobackground</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1aae0efb-c4b6-4cca-a8a0-748bfa470d3a</webElementGuid>
+      <value>a</value>
+      <webElementGuid>c93989b9-0a58-4fd7-8eb1-cd4b0e1a0aba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu_text</value>
-      <webElementGuid>b7b8284f-202e-4bb1-8784-e568995c9bcf</webElementGuid>
+      <value>top nobackground</value>
+      <webElementGuid>b3d4897e-126a-4863-9e8e-2eaec32b3702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://automationteststore.com/index.php?rt=checkout/cart</value>
+      <webElementGuid>8b3bf8dd-cfd3-49b4-a72e-ec94d83ef08e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Account</value>
-      <webElementGuid>7f0ed55d-5d5c-4f49-b228-03423a3a92d1</webElementGuid>
+      <value> Cart</value>
+      <webElementGuid>cdaaf04d-f185-4406-a3bd-594272959b3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown  open&quot;]/a[@class=&quot;top menu_account&quot;]/span[@class=&quot;menu_text&quot;]</value>
-      <webElementGuid>669972b8-b641-4f04-be3a-1151362da6e8</webElementGuid>
+      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown&quot;]/a[@class=&quot;top nobackground&quot;]</value>
+      <webElementGuid>dfdbbcd8-1716-431d-96b9-403086b0d8b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='main_menu']/li[2]/a/span</value>
-      <webElementGuid>bcce7efd-2558-4281-8ca7-edec8106cfc9</webElementGuid>
+      <value>//ul[@id='main_menu']/li[3]/a</value>
+      <webElementGuid>84bd89db-1e01-4149-b0fb-5572c024cbe6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specials'])[2]/following::span[1]</value>
-      <webElementGuid>fc9f4f13-64d6-4730-ad0f-ddf3910955d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[2]/following::a[1]</value>
+      <webElementGuid>80590a8a-ce6c-4652-a01e-3e6bd02ebba6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
-      <webElementGuid>9a698e85-f16d-4785-8880-5348201ab60c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::a[2]</value>
+      <webElementGuid>10809450-3d4e-404d-a607-9558a419e96d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::span[1]</value>
-      <webElementGuid>51732255-4e95-4adc-82e7-27f7ee8c7ded</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[2]/preceding::a[1]</value>
+      <webElementGuid>f075810d-0a9a-4bc4-beea-969ad48fd811</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[2]/preceding::span[2]</value>
-      <webElementGuid>423796ac-8320-4f72-ae85-2edee977c502</webElementGuid>
+      <value>(//a[contains(@href, 'https://automationteststore.com/index.php?rt=checkout/cart')])[4]</value>
+      <webElementGuid>fb63d83f-a267-425d-a468-072ac766340e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div/ul/li[2]/a/span</value>
-      <webElementGuid>468b111c-919c-40a1-936d-495205a5d245</webElementGuid>
+      <value>//li/div/ul/li[3]/a</value>
+      <webElementGuid>f84585c2-b6d1-4e4d-b967-c634fbe35aaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Account' or . = 'Account')]</value>
-      <webElementGuid>473ae17b-280d-4159-9f09-8cc1f9be8129</webElementGuid>
+      <value>//a[@href = 'https://automationteststore.com/index.php?rt=checkout/cart' and (text() = ' Cart' or . = ' Cart')]</value>
+      <webElementGuid>dd389561-42f1-47cc-a7fc-e92f8390e477</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

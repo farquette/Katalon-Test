@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Account</name>
+   <name>a_Account</name>
    <tag></tag>
-   <elementGuidId>587ce0bb-6672-4911-8b1b-142b1d3502f8</elementGuidId>
+   <elementGuidId>73cf529f-f42d-48ad-bd1f-b9ed587d4e73</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='main_menu']/li[2]/a/span</value>
+         <value>//ul[@id='main_menu']/li[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li.dropdown.open > a.top.menu_account > span.menu_text</value>
+         <value>li.dropdown.open > a.top.menu_account</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1aae0efb-c4b6-4cca-a8a0-748bfa470d3a</webElementGuid>
+      <value>a</value>
+      <webElementGuid>89601444-f18f-4f6c-b9f4-25e21527cb52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu_text</value>
-      <webElementGuid>b7b8284f-202e-4bb1-8784-e568995c9bcf</webElementGuid>
+      <value>top menu_account</value>
+      <webElementGuid>78e1999c-2356-4b4d-827d-cb6a246a46ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=account/account</value>
+      <webElementGuid>b4773b19-74c9-48d7-8dea-223b46d192a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Account</value>
-      <webElementGuid>7f0ed55d-5d5c-4f49-b228-03423a3a92d1</webElementGuid>
+      <value> Account</value>
+      <webElementGuid>1f3324b0-ae01-4eb7-836f-d33f774ecde4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown  open&quot;]/a[@class=&quot;top menu_account&quot;]/span[@class=&quot;menu_text&quot;]</value>
-      <webElementGuid>669972b8-b641-4f04-be3a-1151362da6e8</webElementGuid>
+      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown open&quot;]/a[@class=&quot;top menu_account&quot;]</value>
+      <webElementGuid>254485ec-c3ef-4814-b1bd-3bed3feb1626</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='main_menu']/li[2]/a/span</value>
-      <webElementGuid>bcce7efd-2558-4281-8ca7-edec8106cfc9</webElementGuid>
+      <value>//ul[@id='main_menu']/li[2]/a</value>
+      <webElementGuid>7a044a5e-9bd8-4fa5-bfe5-24b411a952f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specials'])[2]/following::span[1]</value>
-      <webElementGuid>fc9f4f13-64d6-4730-ad0f-ddf3910955d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specials'])[2]/following::a[1]</value>
+      <webElementGuid>021ed5be-f6f8-4912-b31e-6d06b33d3cfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
-      <webElementGuid>9a698e85-f16d-4785-8880-5348201ab60c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>8fd7f610-5582-4343-987b-072ef4b176f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::span[1]</value>
-      <webElementGuid>51732255-4e95-4adc-82e7-27f7ee8c7ded</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::a[1]</value>
+      <webElementGuid>bd694e27-110a-44a1-8017-d48b842b5351</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[2]/preceding::span[2]</value>
-      <webElementGuid>423796ac-8320-4f72-ae85-2edee977c502</webElementGuid>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=account/account')])[2]</value>
+      <webElementGuid>14d1fb9d-3ffb-4ec0-9f33-6bc3beab9c78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div/ul/li[2]/a/span</value>
-      <webElementGuid>468b111c-919c-40a1-936d-495205a5d245</webElementGuid>
+      <value>//li/div/ul/li[2]/a</value>
+      <webElementGuid>97a370ea-2e74-48ad-9bfe-01a893406729</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Account' or . = 'Account')]</value>
-      <webElementGuid>473ae17b-280d-4159-9f09-8cc1f9be8129</webElementGuid>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=account/account' and (text() = ' Account' or . = ' Account')]</value>
+      <webElementGuid>d7459601-c10b-419b-8d40-dd50add991d0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

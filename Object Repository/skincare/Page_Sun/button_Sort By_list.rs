@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Account</name>
+   <name>button_Sort By_list</name>
    <tag></tag>
-   <elementGuidId>587ce0bb-6672-4911-8b1b-142b1d3502f8</elementGuidId>
+   <elementGuidId>66812cce-2ce7-4633-b13e-ddfd0b79cc38</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='main_menu']/li[2]/a/span</value>
+         <value>//button[@id='list']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li.dropdown.open > a.top.menu_account > span.menu_text</value>
+         <value>#list</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,87 +22,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>1aae0efb-c4b6-4cca-a8a0-748bfa470d3a</webElementGuid>
+      <value>button</value>
+      <webElementGuid>ec1fefd3-7390-408d-a3d3-61d38798e940</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu_text</value>
-      <webElementGuid>b7b8284f-202e-4bb1-8784-e568995c9bcf</webElementGuid>
+      <value>btn</value>
+      <webElementGuid>bba8fedf-e643-4eed-a21c-fb5d2c56ff2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Account</value>
-      <webElementGuid>7f0ed55d-5d5c-4f49-b228-03423a3a92d1</webElementGuid>
+      <value>list</value>
+      <webElementGuid>c9ee08c7-a1f5-4322-a3c1-0041b1664708</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown  open&quot;]/a[@class=&quot;top menu_account&quot;]/span[@class=&quot;menu_text&quot;]</value>
-      <webElementGuid>669972b8-b641-4f04-be3a-1151362da6e8</webElementGuid>
+      <value>id(&quot;list&quot;)</value>
+      <webElementGuid>1461a38d-6e36-4196-8497-d66b99a6ac64</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='list']</value>
+      <webElementGuid>147c3ebe-61f3-4ddc-95f2-8ab341fb9ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='main_menu']/li[2]/a/span</value>
-      <webElementGuid>bcce7efd-2558-4281-8ca7-edec8106cfc9</webElementGuid>
+      <value>//div[@id='maincontainer']/div/div/div/div/div/div/button</value>
+      <webElementGuid>09374236-42e9-45c2-a0c0-1ee3965ffd60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specials'])[2]/following::span[1]</value>
-      <webElementGuid>fc9f4f13-64d6-4730-ad0f-ddf3910955d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[3]/following::button[1]</value>
+      <webElementGuid>65fb33db-c131-466a-8607-5e2d753f2298</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
-      <webElementGuid>9a698e85-f16d-4785-8880-5348201ab60c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flash Bronzer Body Gel'])[1]/preceding::button[2]</value>
+      <webElementGuid>7bad22c6-8318-4b28-9897-0c585452b842</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::span[1]</value>
-      <webElementGuid>51732255-4e95-4adc-82e7-27f7ee8c7ded</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[2]/preceding::span[2]</value>
-      <webElementGuid>423796ac-8320-4f72-ae85-2edee977c502</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::button[2]</value>
+      <webElementGuid>19db4280-dd04-4353-9fc2-54257cd2f7fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/div/ul/li[2]/a/span</value>
-      <webElementGuid>468b111c-919c-40a1-936d-495205a5d245</webElementGuid>
+      <value>//div/div/div/div/button</value>
+      <webElementGuid>0e62933b-a5a0-4a96-9159-4d960dadbed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Account' or . = 'Account')]</value>
-      <webElementGuid>473ae17b-280d-4159-9f09-8cc1f9be8129</webElementGuid>
+      <value>//button[@id = 'list']</value>
+      <webElementGuid>ad70c156-bb7d-4e40-a28d-450e56688a7f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

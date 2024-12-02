@@ -6,12 +6,12 @@
    <elementGuidId>3de58ad1-7687-454f-aab2-55012978369a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#main_menu > li.dropdown > a.top.menu_specials > span.menu_text</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//ul[@id='main_menu']/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.open > a.top.menu_specials > span.menu_text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b7e2e162-db5e-4609-b0eb-088002100799</webElementGuid>
+      <webElementGuid>40316a36-7543-48b5-bed4-78c74397611a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu_text</value>
-      <webElementGuid>6f9a9a02-a647-4e2b-b869-4117b448108d</webElementGuid>
+      <webElementGuid>90fc34e2-ad99-4024-98e9-d4fffd4a4338</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +39,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Specials</value>
-      <webElementGuid>6633fe3d-13a9-470e-92b7-9cdfb80ca6df</webElementGuid>
+      <webElementGuid>3fb592cc-cd9c-4d64-b1c8-b2cbc1242574</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown&quot;]/a[@class=&quot;top menu_specials&quot;]/span[@class=&quot;menu_text&quot;]</value>
-      <webElementGuid>2da68f74-78bc-435d-bf75-5bd77bcfb86c</webElementGuid>
+      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown open&quot;]/a[@class=&quot;top menu_specials&quot;]/span[@class=&quot;menu_text&quot;]</value>
+      <webElementGuid>ac19846f-932c-496b-ae62-fa177ed85ae3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='main_menu']/li/a/span</value>
-      <webElementGuid>1845518e-c066-40b4-855f-456cb6683197</webElementGuid>
+      <webElementGuid>26ca590f-a027-4763-b251-825fb0094c69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[1]</value>
-      <webElementGuid>a22801c3-b910-4453-9de1-2a5a1db44f71</webElementGuid>
+      <webElementGuid>36b87b9a-bd92-42ae-bd6e-6d77e5cda275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Linkedin'])[1]/following::span[1]</value>
-      <webElementGuid>3efbf4c0-1823-46ed-9cc3-79cb3f0a8587</webElementGuid>
+      <webElementGuid>9ea9417e-ad96-455e-ac37-4fd5b0d551ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[2]/preceding::span[1]</value>
-      <webElementGuid>17fbb1bd-29fa-4886-ba8c-f199de3753a6</webElementGuid>
+      <webElementGuid>23ee4b25-7791-4ac1-bd39-a49c4a9a12ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::span[2]</value>
-      <webElementGuid>7337134a-2bf6-495a-8c89-1f10f4e484b7</webElementGuid>
+      <webElementGuid>3ad9ea9a-03b5-4bf9-bb6a-3613f80341c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/ul/li/a/span</value>
-      <webElementGuid>94b7b079-137a-4537-95ba-a767a93f54e2</webElementGuid>
+      <webElementGuid>029701fb-ec5d-4bf4-9b69-08ff1ecbe5e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Specials' or . = 'Specials')]</value>
-      <webElementGuid>0aba49ae-4086-4103-84d4-235824eb523b</webElementGuid>
+      <webElementGuid>6f22919e-c1a2-4dca-a0d2-3b4ee87df4de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
