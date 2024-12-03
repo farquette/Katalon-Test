@@ -30,11 +30,15 @@ WebUI.click(findTestObject('Object Repository/Appareal/Page_Apparel  accessories
 WebUI.scrollToElement(findTestObject('Object Repository/Appareal/Page_Apparel  accessories/div_Per Page10203040501 - 8 of 8             1'), 
     0)
 
+WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
+
 WebUI.mouseOver(findTestObject('Object Repository/Appareal/Page_SewRiveting - Custom Apparel/a_Apparel  accessories'))
 
 WebUI.click(findTestObject('Object Repository/Appareal/Page_Apparel  accessories/a_T-shirts'))
 
 WebUI.scrollToElement(findTestObject('Page_T-shirts/div_Per Page10203040501 - 5 of 5             1'), 0)
+
+WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
 
 WebUI.closeBrowser()
 

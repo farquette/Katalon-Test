@@ -17,18 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
 WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
 WebUI.click(findTestObject('Object Repository/skincare/Page_SewRiveting - Custom Apparel/a_Skincare'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/skincare/Page_Skincare/a_Skincare'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Skincare/div_Per Page10203040501 - 5 of 5             1'), 
-    0)
-
-WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
+WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Skincare/div_Per Page10203040501 - 5 of 5             1'),
+	0)
 
 WebUI.click(findTestObject('Object Repository/skincare/Page_Skincare/i_Sort By_fa fa-th-list'))
 
@@ -38,10 +34,11 @@ WebUI.click(findTestObject('Object Repository/skincare/Page_Skincare/a_Eyes'))
 
 WebUI.click(findTestObject('Object Repository/skincare/Page_Eyes/i_Sort By_fa fa-th-list'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Eyes/div_Per Page10203040501 - 3 of 3             1'), 
-    0)
+WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Eyes/div_Per Page10203040501 - 3 of 3             1'),
+	0)
 
-WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
+WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Eyes/div_Sort ByDate New  OldName A - ZName Z - _5c0796'),
+	0)
 
 WebUI.mouseOver(findTestObject('Object Repository/skincare/Page_Skincare/a_Skincare'))
 
@@ -49,10 +46,11 @@ WebUI.click(findTestObject('Object Repository/skincare/Page_Eyes/a_Face'))
 
 WebUI.click(findTestObject('Object Repository/skincare/Page_Face/i_Sort By_fa fa-th-list'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Face/div_Per Page10203040501 - 5 of 5             1'), 
-    0)
+WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Face/div_Per Page10203040501 - 5 of 5             1'),
+	0)
 
-WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
+WebUI.scrollToElement(findTestObject('Object Repository/skincare/Page_Face/div_Sort ByDate New  OldName A - ZName Z - _5c0796'),
+	0)
 
 WebUI.mouseOver(findTestObject('Object Repository/skincare/Page_Skincare/a_Skincare'))
 
@@ -62,7 +60,7 @@ WebUI.click(findTestObject('Object Repository/skincare/Page_Gift Ideas  Sets/div
 
 WebUI.click(findTestObject('Object Repository/skincare/Page_Gift Ideas  Sets/div_Per Page10203040501 - 4 of 4             1'))
 
-WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/skincare/Page_Gift Ideas  Sets/button_Sort By_list'))
 
 WebUI.mouseOver(findTestObject('Object Repository/skincare/Page_Skincare/a_Skincare'))
 
@@ -77,8 +75,3 @@ WebUI.click(findTestObject('Object Repository/skincare/Page_Hands  Nails/a_Sun')
 WebUI.click(findTestObject('Object Repository/skincare/Page_Sun/button_Sort By_list'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/skincare/Page_Sun/div_Per Page10203040501 - 1 of 1             1'))
-
-WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
-
-WebUI.closeBrowser()
-

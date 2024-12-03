@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dd7c67c6-2393-4199-aff4-8ee3d24ba540</webElementGuid>
+      <webElementGuid>198ce56b-122f-42a6-95b4-a5134da3882f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://sewriveting.ca/store/index.php?rt=product/category&amp;path=68</value>
-      <webElementGuid>65257a0d-8e64-4e3a-a06f-e0d15ea9707f</webElementGuid>
+      <webElementGuid>f3520724-6f5d-4a2d-9baf-e6ec771a6565</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  Apparel &amp; accessories</value>
-      <webElementGuid>b6f46018-7af2-4afe-a6db-47c909265cff</webElementGuid>
+      <webElementGuid>2fa95166-1bc4-41a9-a3db-8b6879bdae60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;categorymenu&quot;)/nav[@class=&quot;subnav&quot;]/ul[@class=&quot;nav-pills categorymenu&quot;]/li[2]/a[1]</value>
-      <webElementGuid>1af52f88-6016-4680-a084-9109c9a52067</webElementGuid>
+      <webElementGuid>344a731b-f818-4f20-a710-66267ef08d8d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='categorymenu']/nav/ul/li[2]/a</value>
-      <webElementGuid>2d23b687-1596-447e-88b5-9da13656c618</webElementGuid>
+      <webElementGuid>52e25113-8043-4c7e-8d9e-cba4fe0db9b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Apparel &amp; accessories')])[2]</value>
-      <webElementGuid>12e15ebe-58b8-4e7a-8ac3-ccc674a8e09d</webElementGuid>
+      <webElementGuid>8f2bbe74-b903-40b6-9f45-6a775fd9242e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[2]/following::a[1]</value>
-      <webElementGuid>53d64f14-7922-4b57-a24f-4b220ee49cf7</webElementGuid>
+      <webElementGuid>7aef0e5a-0665-4b35-85b6-e00eb6d7cd1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[2]/following::a[2]</value>
-      <webElementGuid>5b470aef-96e3-4ee3-bd4c-1bacfe2cf9bb</webElementGuid>
+      <webElementGuid>48da7566-ddd5-48c3-aef7-ca311eb1217b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=68')]</value>
-      <webElementGuid>da3f0c42-b113-4754-9f0e-22a2b4d7de49</webElementGuid>
+      <webElementGuid>686cf710-a6a6-4b7a-8ef1-4c6d61041df3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//nav/ul/li[2]/a</value>
-      <webElementGuid>9eda4610-6a70-4983-8fa7-44d61c28d388</webElementGuid>
+      <webElementGuid>5b267d29-73f7-400d-b42b-91e91fba904c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=68' and (text() = '  Apparel &amp; accessories' or . = '  Apparel &amp; accessories')]</value>
-      <webElementGuid>8a3a0106-8b84-4b61-8ccb-b53b98a3a32b</webElementGuid>
+      <webElementGuid>8dd17664-9dc2-4fd0-968c-0a461addc2be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

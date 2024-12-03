@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/Fragrance/Page_Fragrance/button_So
 WebUI.scrollToElement(findTestObject('Object Repository/Fragrance/Page_Fragrance/div_Per Page10203040501 - 9 of 9             1'), 
     0)
 
-WebUI.rightClick(findTestObject('Object Repository/Fragrance/Page_Fragrance/div_Per Page10203040501 - 9 of 9             1'))
+WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
 
 WebUI.click(findTestObject('Object Repository/Fragrance/Page_Fragrance/div_Looking for a new scent Check out our f_7be84b'))
 
@@ -71,6 +71,8 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Fragrance/Page_Wome
 
 WebUI.scrollToElement(findTestObject('Object Repository/Fragrance/Page_Women/div_Per Page10203040501 - 12 of 12             1'), 
     0)
+
+WebUI.click(findTestObject('Hair Care/Page_Conditioner/a_Back to top'))
 
 WebUI.closeBrowser()
 
