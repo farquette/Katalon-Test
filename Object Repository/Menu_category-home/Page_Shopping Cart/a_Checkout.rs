@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Checkout</name>
+   <tag></tag>
+   <elementGuidId>26e8b6a1-6955-4f79-8fc9-664fc0293b90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main_menu']/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.open > a.top.menu_checkout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a17fa44a-45fa-449e-b468-09f165ebc0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>top menu_checkout</value>
+      <webElementGuid>5d878c14-ab02-4246-9b4e-b733a392958d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=checkout/shipping</value>
+      <webElementGuid>ca7214c8-b2d6-4b00-bd10-9655787e2735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Checkout</value>
+      <webElementGuid>93faf5ac-61ae-4e80-9a48-fde51b1583ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown open&quot;]/a[@class=&quot;top menu_checkout&quot;]</value>
+      <webElementGuid>f08a820f-5150-45ec-b324-8969bfa64f96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main_menu']/li[4]/a</value>
+      <webElementGuid>cd51e994-65e1-44a4-9d7d-eda2379b16a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[2]/following::a[1]</value>
+      <webElementGuid>2ce8ef60-dd53-4c40-be74-7924361ca3b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[2]/following::a[2]</value>
+      <webElementGuid>51323c1b-f4dc-4e61-b823-3270778b7f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=checkout/shipping')])[3]</value>
+      <webElementGuid>cedc6a98-907b-42bd-b087-6d1a3643cfea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li[4]/a</value>
+      <webElementGuid>f95d136c-e337-4e00-82d3-bc67d7b3e6ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=checkout/shipping' and (text() = ' Checkout' or . = ' Checkout')]</value>
+      <webElementGuid>9413d2cc-8b46-43de-9736-edeaab3903c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

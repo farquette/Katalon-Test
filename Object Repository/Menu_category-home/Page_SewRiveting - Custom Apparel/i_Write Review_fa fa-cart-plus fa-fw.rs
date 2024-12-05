@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Write Review_fa fa-cart-plus fa-fw</name>
+   <tag></tag>
+   <elementGuidId>29f80e4c-e27a-438a-8e44-d89b539917c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block_frame_featured_2639']/div/div/div[2]/div[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-cart-plus.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>552f7e7c-aa0e-4a68-ad3f-46612c348326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cart-plus fa-fw</value>
+      <webElementGuid>a077c6d4-3549-4c59-a425-89d978fd8fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_frame_featured_2639&quot;)/div[@class=&quot;thumbnails list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;pricetag jumbotron&quot;]/a[@class=&quot;productcart&quot;]/i[@class=&quot;fa fa-cart-plus fa-fw&quot;]</value>
+      <webElementGuid>15179c41-fd53-40ef-880f-8e70b807740a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_frame_featured_2639']/div/div/div[2]/div[3]/a/i</value>
+      <webElementGuid>e4ec9a37-3c02-4220-88c6-66d15195dfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/i</value>
+      <webElementGuid>5b1c9e7a-218a-42dd-b4d1-c9971229b281</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

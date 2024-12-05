@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Write Review_fa fa-cart-plus fa-fw_1</name>
+   <tag></tag>
+   <elementGuidId>fa5e7d60-8ca8-46a9-b287-36208505dcd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block_frame_latest_2640']/div/div/div[2]/div[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#block_frame_latest_2640 > div.thumbnails.list-inline > div.col-md-3.col-sm-6.col-xs-12 > div.thumbnail > div.pricetag.jumbotron > a.productcart > i.fa.fa-cart-plus.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4e6c071a-6867-4787-abb2-f8e493c26bc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cart-plus fa-fw</value>
+      <webElementGuid>91593d2e-6d2a-4064-bfb4-3f9d9ec23995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_frame_latest_2640&quot;)/div[@class=&quot;thumbnails list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;pricetag jumbotron&quot;]/a[@class=&quot;productcart&quot;]/i[@class=&quot;fa fa-cart-plus fa-fw&quot;]</value>
+      <webElementGuid>018e65d2-b680-4520-a750-0763da4db5fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_frame_latest_2640']/div/div/div[2]/div[3]/a/i</value>
+      <webElementGuid>d4b85503-5a38-44f4-b4f2-f2835b6b74e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/div[2]/div[3]/a/i</value>
+      <webElementGuid>d406faf7-b4e5-4cd2-9618-bcbc62ea2528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
